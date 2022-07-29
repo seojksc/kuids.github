@@ -3,3 +3,8 @@
 
 ![그림2](https://user-images.githubusercontent.com/26245409/181692572-04b24e58-1b58-40b1-90b7-aabb880050e3.png)
 
+![그림3](https://user-images.githubusercontent.com/26245409/181692646-c9a7eea0-1fb3-4552-bf52-0586b45bc9c3.png)
+
+![그림4](https://user-images.githubusercontent.com/26245409/181692683-ca7ba6f9-87e8-4eec-9e71-7e0858340433.png)
+
+![그림5](https://user-images.githubusercontent.com/26245409/181692712-fe8ce87f-cae4-40ca-ae75-914b574a086e.png)

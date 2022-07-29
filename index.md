@@ -1,3 +1,7 @@
+
+![그림1](https://user-images.githubusercontent.com/26245409/181692422-f68f2e53-9cfb-41a1-bdf9-92eb0567a18d.png)
+
+
 ## Welcome to GitHub Pages
 
 This is You can use the [editor on GitHub](https://github.com/seojksc/kuids.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
